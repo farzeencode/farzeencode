@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Farzeen! I specialize in Python, machine learning, and AI, focusing on predictive analysis, statistical interpretation, and intuitive data visualizations. I'm passionate about transforming complex data into actionable insights.<br><br>🔍 What I do:<br><br>Predictive Modeling: Foreseeing trends and behaviors.<br>Statistical Analysis: Ensuring data reliability.<br>Data Visualization: Simplifying data for all.<br>🌱 Always learning and looking to collaborate on projects that drive data-driven decisions. Check out my work below!<br>
+ Hi, I'm Farzeen! I specialize in Python, machine learning, and AI, focusing on predictive analysis, statistical interpretation, and intuitive data visualizations. I'm passionate about transforming complex data into actionable insights.<br><br>🔍 What I do:<br><br>Predictive Modeling: Foreseeing trends and behaviors.<br>Statistical Analysis: Ensuring data reliability.<br>Data Visualization: Simplifying data for all.<br>🌱 Always learning and looking to collaborate on projects that drive data-driven decisions. Check out my work below!<br>
 
 
 ## 🌐 Socials:
